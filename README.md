@@ -4,6 +4,7 @@
 ![React](https://img.shields.io/badge/-Reactjs-white?style=flat-square&logo=React)
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=HTML5)
 ![NPM](https://img.shields.io/badge/-NPM-white?style=flat-square&logo=NPM)
+![RapidApi](https://img.shields.io/badge/-RapidApi-white?style=flat-square&logo=RapidApi)
 
 This web app is a modern, one spot destination for travellers to look for hotels, restaurants and also famous tourist spots in a single go!<br>
 Key Features
